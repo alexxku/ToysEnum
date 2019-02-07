@@ -1,0 +1,13 @@
+Using C# console application, applied an enumerator and a structure to determine the amount of toys each child has. 
+
+				Create an enumerator with three children
+				   Create a structure with three toys
+				     The three toys will be arrays
+				  Create a loop for the three children
+				       Insert array items in loop
+				   Create an input for array elements
+				   Elements would be counted per child
+				       Create three display methods
+					  A method for every toy
+					      Display results
+ 
